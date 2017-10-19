@@ -32,6 +32,7 @@ import { MyProfileComponent } from './my-profile/my-profile.component';
 import { ChangePasswordComponent } from './change-password/change-password.component';
 import { AdminUsersComponent } from './admin-users/admin-users.component';
 import { AdminAssociationsComponent } from './admin-associations/admin-associations.component';
+import { AssociationsComponent } from './associations/associations.component';
 import { FailedAuthComponent } from './failed-auth/failed-auth.component';
 import { AssociationCreateComponent } from './association-create/association-create.component';
 import { ComfirmDialogComponent } from './comfirm-dialog/comfirm-dialog.component';
@@ -56,6 +57,7 @@ import { AddAssMemberDialogComponent } from './add-ass-member-dialog/add-ass-mem
     ChangePasswordComponent,
     AdminUsersComponent,
     AdminAssociationsComponent,
+    AssociationsComponent,
     FailedAuthComponent,
     AssociationCreateComponent,
     ComfirmDialogComponent,

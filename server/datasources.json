@@ -1,6 +1,6 @@
 {
   "db": {
-    "host": "10.69.0.42",
+    "host": "10.69.0.153",
     "port": 3306,
     "database": "projectpuzzle",
     "password": "",
